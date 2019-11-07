@@ -1,0 +1,32 @@
+{
+  "_id": "page.full-or-half",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.full-or-half--radios.auto_name__7",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.full-or-half--radios.auto_name__7--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Full day",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.full-or-half--radios.auto_name__7--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Half day",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Will you do a half day or full day?",
+      "name": "auto_name__7"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__6",
+    "operator": "is",
+    "value": "Yes"
+  },
+  "url": "full-or-half"
+}

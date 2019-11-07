@@ -4,6 +4,15 @@
   "body": "",
   "heading": "Certificate of Loss of Earnings for self-employed or company directors",
   "lede": "You should use this form if you are self-employed or a company director and need to claim for earnings you lose while serving as a juror. You cannot claim for a loss of earnings for work at the weekend or a bank holiday, as you will not be serving as a juror when the courthouse is closed, and so will not incur a financial loss during those days.",
-  "steps": [],
+  "steps": [
+    "page.your-details",
+    "page.work-days",
+    "page.date",
+    "page.return-to-work",
+    "page.full-or-half",
+    "page.declaration",
+    "page.check-answers",
+    "page.send-application"
+  ],
   "url": "/"
 }

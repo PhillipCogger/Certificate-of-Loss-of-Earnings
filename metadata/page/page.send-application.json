@@ -1,0 +1,6 @@
+{
+  "_id": "page.send-application",
+  "_type": "page.confirmation",
+  "heading": "Application sent",
+  "url": "send-application"
+}

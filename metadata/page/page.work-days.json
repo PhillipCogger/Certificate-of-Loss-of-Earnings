@@ -1,0 +1,29 @@
+{
+  "_id": "page.work-days",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.work-days--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.work-days--fieldset--text.auto_name__3",
+          "_type": "text",
+          "label": "Days",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.work-days--fieldset--number.auto_name__4",
+          "_type": "number",
+          "label": "Hours",
+          "name": "auto_name__4"
+        }
+      ],
+      "namespace": "namespace_auto__1",
+      "repeatable": true,
+      "repeatableAdd": "Add another day",
+      "repeatableDelete": "Remove a day"
+    }
+  ],
+  "url": "work-days"
+}

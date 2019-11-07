@@ -1,0 +1,20 @@
+{
+  "_id": "page.your-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your-details--text.auto_name__1",
+      "_type": "text",
+      "label": "Your name",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__2",
+      "_type": "text",
+      "label": "Your profession",
+      "name": "auto_name__2"
+    }
+  ],
+  "heading": "Your details",
+  "url": "your-details"
+}

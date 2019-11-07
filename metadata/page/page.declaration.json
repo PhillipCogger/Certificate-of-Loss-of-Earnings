@@ -1,0 +1,21 @@
+{
+  "_id": "page.declaration",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.declaration--text.auto_name__8",
+      "_type": "text",
+      "label": "Your name",
+      "name": "auto_name__8"
+    },
+    {
+      "_id": "page.declaration--date.auto_name__9",
+      "_type": "date",
+      "legend": "Date",
+      "name": "auto_name__9"
+    }
+  ],
+  "heading": "Declaration",
+  "lede": "I certify that the information supplied is correct and I understand that I may be prosecuted if I have given any information, which I know to be false or do not believe to be true.",
+  "url": "declaration"
+}
